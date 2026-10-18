@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secret keys
+.env
+
+# Uploaded documents (keep private/local)
+uploads/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+# Generated PDF text output
+extracted_text.txt
